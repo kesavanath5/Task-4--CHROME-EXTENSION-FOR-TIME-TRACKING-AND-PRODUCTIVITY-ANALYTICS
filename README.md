@@ -81,4 +81,4 @@ This extension runs entirely in the browser using Chrome APIs and local storage,
 
 Output:
 
-
+![Image](https://github.com/user-attachments/assets/dd1cb08a-2334-4fe2-a6f3-2e8ab2a49311)
